@@ -25,3 +25,5 @@ biblioteca.retirarLibro(31882,"1234");
 biblioteca.recomendarLibros(20321);
 
 biblioteca.devolverLibro(20321, "1234");
+
+biblioteca.librosPorAutor("Cervantes Saavedra")
